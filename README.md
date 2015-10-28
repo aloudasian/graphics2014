@@ -1,2 +1,3 @@
 # graphics2014
-Graphics project 2014
+CS 559 graphics project
+Aurora Borealis Simulation/Screensaver
